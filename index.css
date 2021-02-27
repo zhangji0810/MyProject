@@ -8,3 +8,8 @@ body {
 div {
     text-align: center;
 }
+
+.right {
+    text-align: right;
+    color: green;
+}
