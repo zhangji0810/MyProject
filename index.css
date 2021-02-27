@@ -9,7 +9,7 @@ div {
     text-align: center;
 }
 
-.right {
+div.right {
     text-align: right;
     color: green;
 }
